@@ -1,0 +1,27 @@
+.section{
+    width: 80%;
+    margin: 0 auto;
+}
+.h1{
+    font-size:38px;
+    font-weight: 800;
+    margin-top: 40px;
+    text-align: center;
+}
+.h1::before{
+    content: '';
+    width: 25px;
+    height: 3px;
+    position: absolute;
+    bottom: -25px;
+    left: 50%;
+    margin-left: -12px;
+    color: red;
+    background: #d73e4d;
+    left:50%;
+}
+.p{
+   text-align: center; 
+   margin-top: 10px;
+   color: gray;
+}

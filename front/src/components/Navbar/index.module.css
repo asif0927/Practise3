@@ -1,0 +1,53 @@
+.header{
+    position:relative;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 999;
+    padding-top: 20px;
+    background-image: url("https://preview.colorlib.com/theme/bizpro/images/home/slide-2.jpg.webp");
+    background-repeat: no-repeat;
+    height:110vh;
+    background-size: cover;
+}
+.a{
+    color: black;
+    text-transform: uppercase;
+    font-weight: 700;
+    background: transparent;
+    padding: 9px 15px;
+}
+.a:hover{
+    color: #d73e4d;
+}
+.li{
+   margin-left:15px;
+}
+.section{
+    background-image: url("https://preview.colorlib.com/theme/bizpro/images/home/slide-2.jpg.webp");
+    position: relative;
+}
+.h1{
+    font-size: 42px;
+    color: white;
+    margin-top: 20%;
+    margin-bottom: 10px;
+}
+.h6{
+    font-size: 25px;
+    color: white;
+    margin-top: 20px;
+}
+.a2{
+    margin-top: 20px;
+    width: 170px;
+    line-height: 50px;
+    text-align: center;
+    border-width: 1px;
+    text-transform: uppercase;
+    background-color: #d73e4d;
+    color: white;
+}
+.a2:hover{
+    color: white;
+}

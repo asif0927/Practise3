@@ -1,0 +1,45 @@
+.section{
+    padding:100px 0;
+}
+.h2{
+    font-size: 38px; 
+    text-align: center;
+}
+.h2::before{
+    content: '';
+    width: 25px;
+    height: 3px;
+    position: absolute;
+    bottom: -25px;
+    left: 50%;
+    margin-left: -12px;
+    color: red;
+    background: #d73e4d;
+    left:50%;
+}
+.p{
+   text-align: center; 
+   margin-top: 10px;
+   color: gray;
+   margin-bottom: 90px;
+}
+.h6{
+    font-size:18px;
+}
+.a{
+    display: block;
+    line-height: 26px;
+    text-transform: none;
+    font-size: 22px;
+    color: #292929;
+    margin: 40px 0 15px 0;
+}
+.a2{
+    color: #292929;
+    font-size: 15px;
+    margin-bottom: 18px;
+}
+.span{
+    color: #d73e4d;
+    font-size: 15px;
+}
